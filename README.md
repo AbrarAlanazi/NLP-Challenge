@@ -14,3 +14,6 @@ In this project Learning how to process text to identify whether a news headline
 # Deploy the model to the cloud
 
 https://nlp-test-by.streamlit.app/
+
+# Dataset
+https://drive.google.com/drive/folders/12lIP2VgOZPE06X1dXBbJhnuJC-rlejGb?usp=sharing
