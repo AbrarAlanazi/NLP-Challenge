@@ -11,5 +11,6 @@ In this project Learning how to process text to identify whether a news headline
  Nora Alshahrani
 
 
-Deploy the model to the cloud
+# Deploy the model to the cloud
+
 https://nlp-test-by.streamlit.app/
